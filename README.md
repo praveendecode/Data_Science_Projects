@@ -46,11 +46,11 @@
  
 - Summarization AI            : [View Project](https://github.com/praveendecode/SummarixAI)
  
-= Spam Analyser               : [View Project](https://github.com/praveendecode/spamalyzer/tree/main)
+- Spam Analyser               : [View Project](https://github.com/praveendecode/spamalyzer/tree/main)
  
-= Multilingual translator     : [View project](https://github.com/praveendecode/multilingual-translator_AI)
+- Multilingual translator     : [View project](https://github.com/praveendecode/multilingual-translator_AI)
  
-= Emotion Analyser AI         : [View Project](https://github.com/praveendecode/emotion-analyzer-AI)
+- Emotion Analyser AI         : [View Project](https://github.com/praveendecode/emotion-analyzer-AI)
 
 
 
