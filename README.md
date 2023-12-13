@@ -4,29 +4,29 @@
 
 
 
-## US Home Price Index             : [View Project](https://github.com/praveendecode/US_HPI_Prediction)
+- US Home Price Index             : [View Project](https://github.com/praveendecode/US_HPI_Prediction)
  
-## Retail Revenue Forecasting     : [View Project](https://github.com/praveendecode/Retail-Revenue-Forecasting)
+- Retail Revenue Forecasting     : [View Project](https://github.com/praveendecode/Retail-Revenue-Forecasting)
 
-## Airways Booking Analysis        : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
+- Airways Booking Analysis        : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
 
-## Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
+- Industrial Copper Modelling : [View Project](https://github.com/praveendecode/Industrial_Copper_Modeling)
 
-## Airways Booking Analysis    : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
+- Airways Booking Analysis    : [View Project](https://github.com/praveendecode/Airways-booking-analysis)
 
-## Retail Gocery Modelling     : [View Project](https://github.com/praveendecode/Retail-grocery-industry)
+- Retail Gocery Modelling     : [View Project](https://github.com/praveendecode/Retail-grocery-industry)
  
-## Term Load Prediction        : [View Project](https://github.com/praveendecode/Term_Load_Predictor)
+- Term Load Prediction        : [View Project](https://github.com/praveendecode/Term_Load_Predictor)
  
-## Spotify Song Popularity     : [View Project](https://github.com/praveendecode/Spotify-Popularity-Predictor)
+- Spotify Song Popularity     : [View Project](https://github.com/praveendecode/Spotify-Popularity-Predictor)
  
-## Cardio Sense AI             : [View Project](https://github.com/praveendecode/CardioSense_AI)
+- Cardio Sense AI             : [View Project](https://github.com/praveendecode/CardioSense_AI)
  
-## Sugar Sense AI              : [View Project](https://github.com/praveendecode/Sugar-Sense-AI)
+- Sugar Sense AI              : [View Project](https://github.com/praveendecode/Sugar-Sense-AI)
  
-## Mobile App Dating           : [View Project](https://github.com/praveendecode/Mobile-dating-app)
+- Mobile App Dating           : [View Project](https://github.com/praveendecode/Mobile-dating-app)
  
-## Wine Quality Check          : [View Project](https://github.com/praveendecode/WineQualityPrediction)
+- Wine Quality Check          : [View Project](https://github.com/praveendecode/WineQualityPrediction)
 
 
 # Natural Language Processing Projects
@@ -34,7 +34,7 @@
 ![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef)
 
 
-## Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
+- Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
 ## TextWiz                     : [View Project](https://github.com/praveendecode/Textwiz)
  
