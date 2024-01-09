@@ -35,6 +35,8 @@
 
 - Marathi Speech Translation  : [View Project](https://github.com/praveendecode/Voice_AI)
 
+- Language AI                 : [View Project](https://github.com/praveendecode/Language_AI)
+
 - Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
 - TextWiz                     : [View Project](https://github.com/praveendecode/Textwiz)
